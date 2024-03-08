@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishxbhhhhh
+- 👋 Hi, I’m @Rishabhsingh27
 - 👀 I’m interested in Gaming, Coding
 - 🌱 I’m currently learning Python,C Language, Web Devlopment(HTML5, CSS3, JS)
 - 💞️ I’m looking to collaborate on ...
