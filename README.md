@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishabh Naresh Singh, Software Engineer
+- Hi, I’m @Rishabh Singh, Software Engineer
 - Skills:
 - Backend: Python, HTTP REST APIs, JWT Auth, Jenkins, Terraform, Docker, and CI/CD. 
 - Cloud: AWS Services (S3, Lambda, API gateway, CloudWatch, EventBridge, IAM, Secret Manager, System Manager)
