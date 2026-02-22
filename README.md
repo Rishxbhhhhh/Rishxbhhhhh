@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @Rishabh Naresh Singh
-- 👀 I’m interested in Gaming, Coding, Reading Books, Solving Real world Problems
-- 🌱 I’m currently have knowleadge of Python, C/C++ Language, HTML5, CSS3, JavaScript, Data structure, SQL, Git, ReactJS, Figma, MongoDB(basic), Java(basic), AWS(basic), TailwindCSS, Bootstarp, Django.
-- 📫 How to reach me (+91) 8810764371 and rishabhsingh889966@gamil.com
+- 👋 Hi, I’m @Rishabh Naresh Singh, Software Engineer
+- 👀 Skills:
+- Backend: Python, HTTP REST APIs, JWT Auth, Deployment, Jenkins, Terraform, Docker, and CI/CD. 
+- Cloud: AWS Services (S3, Lambda, API gateway, CloudWatch, EventBridge, IAM, Secret Manager, System Manager)
+- Databases: DynamoDB, MongoDB, Postgres
+- Pandas, NumPy, Requests
+- Frontend: JavaScript, React.js
+- Web Tech:  HTML5, CSS3, Bootstrap
+- Tools & Version Control: Git, GitHub, VS Code, Postman
+- Currently working in a private software company as a cloud backend engineer.
+- How to reach me (+91) 8810764371 and rishabhsingh889966@gamil.com
 
 <!---
 Rishxbhhhhh/Rishxbhhhhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
