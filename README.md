@@ -123,3 +123,7 @@ Modern serverless cloud platforms can automatically scale to thousands of functi
 ---
 
 > “I believe great engineering comes from understanding how systems work internally — not just knowing how to use them.”
+>
+> ## 🐍 GitHub Contribution Snake
+
+![GitHub Snake dark](https://raw.githubusercontent.com/Rishxbhhhhh/output/output/github-contribution-grid-snake-dark.svg)
