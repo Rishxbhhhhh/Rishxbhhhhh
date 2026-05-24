@@ -105,6 +105,7 @@ Currently exploring and improving my understanding of:
 
 ## 🐍 GitHub Contribution Snake
 ![GitHub Snake dark](https://raw.githubusercontent.com/Rishxbhhhhh/output/output/github-snake.svg)
+
 ## ⚡ Fun Fact
 
 Modern serverless cloud platforms can automatically scale to thousands of function executions within seconds, without developers managing physical servers — one of the many reasons cloud-native engineering fascinates me.
