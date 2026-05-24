@@ -1,1 +1,45 @@
+# GitHub Actions workflow to generate a dark-themed contribution snake animation for Rishxbhhhhh
+# and automatically push the generated assets to the 'output' branch.
+# This workflow follows security and best-practice guidelines.
 
+name: Generate Contribution Snake Animation
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: none
+  issues: read
+  pull-requests: none
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Rishxbhhhhh
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          snake_color: '#8ff5e0'
+          github_api_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push snake animation to 'output' branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
