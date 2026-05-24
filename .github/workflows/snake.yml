@@ -1,7 +1,3 @@
-# GitHub Actions workflow to generate a dark-themed contribution snake animation for Rishxbhhhhh
-# and automatically push the generated assets to the 'output' branch.
-# This workflow follows security and best-practice guidelines.
-
 name: Generate Contribution Snake Animation
 
 on:
