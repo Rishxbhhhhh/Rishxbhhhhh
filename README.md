@@ -104,7 +104,7 @@ Currently exploring and improving my understanding of:
 ---
 
 ## 🐍 GitHub Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/Rishxbhhhhh/rishabxhhhh/output/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Rishxbhhhhh/Rishabxhhhh/output/github-snake-dark.svg)
 
 ## ⚡ Fun Fact
 
