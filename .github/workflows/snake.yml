@@ -25,7 +25,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Rishxbhhhhh
-          outputs: dist/github-snake.svg
+          outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
           svg_out_path: dist/github-snake.svg
           snake_color: '#8ff5e0'
           github_api_token: ${{ secrets.GITHUB_TOKEN }}
