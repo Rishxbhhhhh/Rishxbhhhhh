@@ -8,8 +8,6 @@ Currently working in a software company as a Backend & Cloud Engineer, contribut
 
 ---
 
-## 🔧 Tech Stack
-
 ### 💻 Backend & APIs
 
 * Python
@@ -95,6 +93,18 @@ Currently exploring and improving my understanding of:
 * CI/CD & Deployment Workflows
 * Authentication Systems
 * Scalable Application Architecture
+
+---
+
+## 🔧 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,aws,dynamodb,mongodb,postgres,docker,terraform,jenkins,git,github,vscode,postman,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Rishxbhhhhh&theme=tokyonight)
 
 ---
 
